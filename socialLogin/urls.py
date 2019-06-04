@@ -1,6 +1,6 @@
 from . import views
 from django.urls import path
-#app name
+
 app_name = 'socialLogin'
 
 urlpatterns = [
